@@ -1,5 +1,5 @@
 Name: Translations
-Id: g=8ae44a3b00f2bdd221f16ddec6d4dd4b
+Id: g=e7dc7819db6e3fcdcff217625df08581
 Type: FolderType
 Children:
 - Name: LocalizationDictionary1
@@ -8,11 +8,4 @@ Children:
   DataType: String
   ValueRank: OneOrMoreDimensions
   ArrayDimensions: [0,0]
-  Value: 
-   {
-    "Type": 12,
-    "Dimensions": [1,1],
-    "Body": [
-     ""
-    ]
-   }
+  Value: {"Type":12,"Dimensions":[0,0],"Body":[]}
